@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XYX</title>
+    <!-- 可以在这里添加其他头部信息，比如样式表链接、脚本等 -->
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is your HTML page in VSCode.</p>
+     <p>微积分是数学中的一个重要分支，主要包括微分学和积分学。</p>
+
+    <h2>微分学</h2>
+    <p>微分学研究的是函数的变化和斜率。微分的概念让我们能够理解函数在某一点的变化率，导数是微分的一种表示方式。</p>
+
+    <h2>积分学</h2>
+    <p>积分学研究的是区域的大小和累积效应。通过积分，我们可以计算曲线下的面积，了解函数在某一区间上的累积效果。</p>
+
+    <img src="D:\桌面\微积分.jpg" alt="微积分图示">
+
+</body>
+</html>
